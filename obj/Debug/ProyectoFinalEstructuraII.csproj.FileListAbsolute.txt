@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\bin\Debug\ProyectoFinalEstructuraII.exe
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\bin\Debug\ProyectoFinalEstructuraII.pdb
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.Form1.resources
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.exe
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.pdb
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.FormArbol.resources
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.FormGrafo.resources
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\bin\Debug\ProyectoFinalEstructuraII.exe.config
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\bin\Debug\ProyectoFinalEstructuraII.exe.manifest
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\bin\Debug\ProyectoFinalEstructuraII.application
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.exe.manifest
+C:\Users\Usuario\Desktop\ProyectoFinalEstructuraII\obj\Debug\ProyectoFinalEstructuraII.application
